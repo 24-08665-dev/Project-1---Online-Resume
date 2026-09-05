@@ -1,2 +1,2 @@
-# Project-1---Online-Resume
+Mendoza-Project1
 My Online Resume
